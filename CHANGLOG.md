@@ -1,4 +1,4 @@
-TORRION, DOMINGO, SUMAYLO
+TORION, DOMINGO, SUMAYLO
 
 # Changelog
 This file lists all the updates made to our Saving Helper code
