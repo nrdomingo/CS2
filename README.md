@@ -1,4 +1,4 @@
-TORRION, DOMINGO, SUMAYLO
+TORION, DOMINGO, SUMAYLO
 
 ## Project Title Saving Helper 
 
@@ -26,3 +26,7 @@ Budget per month:
 2. Materials- ₱100
 Do you want to add another one for another student?
 
+## Contribution
+- Student 1: Torion (input validation, user interface)
+- Student 2: Sumaylo (Coder and README editor)
+- Student 3: Doming (Coder and changelog manager)
