@@ -4,7 +4,14 @@ TORION, DOMINGO, SUMAYLO
 This file lists all the updates made to our Saving Helper code
 
 ---
+## Version 1.0.2 - August 15, 2025
+- Adjusted the text
 
+---
+## Version V 1.0.1 - August 15, 2025
+- Made it so it shows a negative number if spending gos over the budget.
+
+---
 ## Version V 1.0.0 - August 15, 2025
 - First version of the program
 - The user can:
