@@ -5,7 +5,7 @@ This file lists all the updates made to our Saving Helper code
 
 ---
 ## Version 1.0.2 - August 15, 2025
-- Adjusted the text
+- Adjusted the outputs
 
 ---
 ## Version V 1.0.1 - August 15, 2025
