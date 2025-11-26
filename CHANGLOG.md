@@ -3,6 +3,12 @@ TORION, DOMINGO, SUMAYLO
 # Changelog
 This file lists all the updates made to our Saving Helper code
 
+## Version 1.1.3 - November 13
+- Made a
+---
+## Version 1.1.2 - November 10, 2025
+- Made changes in the program and overall polished the program
+- 
 ---
 ## Version 1.0.2 - August 15, 2025
 - Adjusted the outputs
