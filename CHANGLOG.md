@@ -9,7 +9,6 @@ This file lists all the updates made to our Saving Helper code
 ---
 ## Version 1.1.2 - November 10, 2025
 - Made changes in the program and overall polished the program
-- 
 ---
 ## Version 1.0.2 - August 15, 2025
 - Adjusted the outputs
