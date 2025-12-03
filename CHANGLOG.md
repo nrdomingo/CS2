@@ -3,6 +3,9 @@ TORION, DOMINGO, SUMAYLO
 # Changelog
 This file lists all the updates made to our Saving Helper code
 
+## Version 1.2.4 - December 3, 2025
+- Made the program more readable by adding better spacing
+---
 ## Version 1.2.3 - November 26, 2025
 - Made a header for our program when you run it
 - Instead of a negative number, we made it so the program tells you how much you went over the budget
